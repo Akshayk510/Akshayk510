@@ -1,6 +1,6 @@
 👋 Hello World! I'm *Karankote Akshay*
 
-🎯 A motivated *Computer Science* student with a strong foundation in *Python, **Full Stack Web Development*, and a passion for problem-solving and building real-world applications.
+🎯 A highly motivated Computer Science student with a solid foundation in Python and Full Stack Web Development. Passionate about solving real-world problems through code, with a strong interest in building scalable, user-focused applications and continuously expanding technical skills.
 
 ---
 
